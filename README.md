@@ -1,5 +1,5 @@
 # Ishmam-Haque-IOS-Codepath-Project-1-Movies
-Hello this is my first project for codepath
+Hello this is my first and second project for codepath
 # Flix
 Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 ## Flix Part 2 ezyzip-2 contains Project 2 
